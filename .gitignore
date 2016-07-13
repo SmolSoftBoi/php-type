@@ -1,0 +1,10 @@
+# Idea
+.idea/misc.xml
+.idea/workspace.xml
+.idea/*plugin*
+
+# macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+Icon

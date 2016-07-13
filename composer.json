@@ -1,0 +1,8 @@
+{
+    "name": "epickris/type",
+    "autoload": {
+        "psr-4": {
+            "EpicKris\\": "src/"
+        }
+    }
+}
